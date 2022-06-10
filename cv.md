@@ -15,6 +15,6 @@
 ## Courses
 ######  RS School Course "JavaScript/Front-end. Stage0" (in progress)
 
-## Langusges
-* English - A2-B1 (according to the Online Tast at Englishdom.com and test.str.by)
+## Languages
+* English - A2-B1 (according to the Online Test at Englishdom.com and test.str.by)
 * Russian - Native
