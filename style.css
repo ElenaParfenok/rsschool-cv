@@ -1,4 +1,4 @@
-About me
+
 .mane-page{
     font-family: 'Josefin Sans', sans-serif;
 }
@@ -100,3 +100,7 @@ body {
   body{
     background-color: lavender;
   }
+#about-me{
+  text-align: justify;
+  width: 100%;
+}
