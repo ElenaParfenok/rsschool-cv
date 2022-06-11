@@ -1,6 +1,49 @@
 About me
 .mane-page{
-    font-family:'Roboto', sans-serif;
+    font-family: 'Josefin Sans', sans-serif;
+}
+h1{
+    font-family: Josefin Sans, sans-serif;
+    color: steelblue;
+    margin-bottom: 30px;
+}
+img{
+    border: 1px solid;
+    color: steelblue;
+}
+#profile{
+    text-align: center;
+}
+#contact-information{
+    text-align: center;
+}
+.contacts{
+    width: 100%;
+    text-align:  center;
+}
+.contacts_centr{
+    display: inline-block;
+    color: steelblue;
+}
+
+    li{
+    text-align: left;
+}
+hr{
+    margin-top: 30px;
+}
+h3{
+    font-family: Josefin Sans, sans-serif;
+    color: steelblue;
+    background-color: lightblue;
+}
+h4{
+    font-family: Josefin Sans, sans-serif;
+    color: steelblue;
+}
+a{
+    text-decoration: none;
+    color:lightsteelblue;
 }
 *{
     box-sizing:border-box;
