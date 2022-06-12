@@ -11,6 +11,9 @@ img{
     border: 1px solid;
     color: steelblue;
 }
+.mypic{
+  float:right
+}
 #profile{
     text-align: center;
 }
@@ -24,13 +27,22 @@ img{
 .contacts_centr{
     display: inline-block;
     color: steelblue;
+    list-style-type: circle;
 }
 
     li{
     text-align: left;
 }
+.my_skills, .my_courses, .my_languages{
+  list-style-type: circle;
+}
+
 hr{
     margin-top: 30px;
+    border: none;
+    color:steelblue;
+    background-color: steelblue;
+    height:2px;
 }
 h2{
     font-family: Josefin Sans, sans-serif;
