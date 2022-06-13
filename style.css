@@ -15,10 +15,12 @@ img{
   float:right
 }
 #profile{
-    text-align: center;
+  text-align: center;
+  margin-left: 250px;
 }
 #contact-information{
     text-align: center;
+    margin-left: 250px;
 }
 .contacts{
     width: 100%;
