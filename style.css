@@ -117,3 +117,12 @@ body {
   text-align: justify;
   width: 100%;
 }
+#education{
+  margin-top: 55px;
+}
+.university{
+  font-size: 20px;
+}
+#languages{
+  margin-top: 40px;
+}
